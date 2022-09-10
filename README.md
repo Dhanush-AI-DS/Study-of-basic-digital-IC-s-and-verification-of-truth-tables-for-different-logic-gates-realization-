@@ -61,8 +61,8 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 ~~~
-Developed by: A.Shyam Kumar
-RegisterNumber: 212221230098
+Developed by: S Dhanush
+RegisterNumber: 212221230020
 
 module EX01(x,y,A,B,C,D,E,F,G);
 input x,y;
